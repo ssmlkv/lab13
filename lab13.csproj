@@ -1,0 +1,27 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\DelegateProject\DelegateProject.csproj" />
+    <ProjectReference Include="..\StringDelegate\StringDelegate.csproj" />
+    <ProjectReference Include="..\TimeEvent\TimeEvent.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="lab10">
+      <HintPath>..\..\..\..\source\repos\lab10\lab10\obj\Debug\net8.0\lab10.dll</HintPath>
+    </Reference>
+    <Reference Include="lab12_4">
+      <HintPath>..\..\..\..\source\repos\lab12_4\lab12_4\bin\Debug\net8.0\lab12_4.dll</HintPath>
+    </Reference>
+    <Reference Include="lab12__2">
+      <HintPath>..\..\lab122222\lab12__2\bin\Debug\net8.0\lab12__2.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+</Project>
