@@ -1,0 +1,111 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "lab13/1.0.0": {
+        "dependencies": {
+          "DelegateProject": "1.0.0",
+          "StringDelegate": "1.0.0",
+          "TimeEvent": "1.0.0",
+          "lab12_4": "1.0.0",
+          "lab12__2": "1.0.0",
+          "ClassLibrary1": "1.0.0.0",
+          "lab10": "1.0.0.0"
+        },
+        "runtime": {
+          "lab13.dll": {}
+        }
+      },
+      "DelegateProject/1.0.0": {
+        "runtime": {
+          "DelegateProject.dll": {}
+        }
+      },
+      "lab12_4/1.0.0": {
+        "dependencies": {
+          "lab12__2": "1.0.0"
+        },
+        "runtime": {
+          "lab12_4.dll": {}
+        }
+      },
+      "lab12__2/1.0.0": {
+        "runtime": {
+          "lab12__2.dll": {}
+        }
+      },
+      "StringDelegate/1.0.0": {
+        "runtime": {
+          "StringDelegate.dll": {}
+        }
+      },
+      "TimeEvent/1.0.0": {
+        "runtime": {
+          "TimeEvent.dll": {}
+        }
+      },
+      "ClassLibrary1/1.0.0.0": {
+        "runtime": {
+          "ClassLibrary1.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "lab10/1.0.0.0": {
+        "runtime": {
+          "lab10.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "lab13/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DelegateProject/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "lab12_4/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "lab12__2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "StringDelegate/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "TimeEvent/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ClassLibrary1/1.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "lab10/1.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

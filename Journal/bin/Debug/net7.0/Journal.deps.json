@@ -1,0 +1,82 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Journal/1.0.0": {
+        "dependencies": {
+          "DelegateProject": "1.0.0",
+          "StringDelegate": "1.0.0",
+          "TimeEvent": "1.0.0",
+          "lab12_4": "1.0.0"
+        },
+        "runtime": {
+          "Journal.dll": {}
+        }
+      },
+      "DelegateProject/1.0.0": {
+        "runtime": {
+          "DelegateProject.dll": {}
+        }
+      },
+      "lab12_4/1.0.0": {
+        "dependencies": {
+          "lab12__2": "1.0.0"
+        },
+        "runtime": {
+          "lab12_4.dll": {}
+        }
+      },
+      "lab12__2/1.0.0": {
+        "runtime": {
+          "lab12__2.dll": {}
+        }
+      },
+      "StringDelegate/1.0.0": {
+        "runtime": {
+          "StringDelegate.dll": {}
+        }
+      },
+      "TimeEvent/1.0.0": {
+        "runtime": {
+          "TimeEvent.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Journal/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DelegateProject/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "lab12_4/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "lab12__2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "StringDelegate/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "TimeEvent/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

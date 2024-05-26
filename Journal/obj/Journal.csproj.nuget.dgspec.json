@@ -1,0 +1,349 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/nikitamalkov/Projects/DelegateProject/Journal/Journal.csproj": {}
+  },
+  "projects": {
+    "/Users/nikitamalkov/Downloads/lab122222 3/lab12__2/lab12__2.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/nikitamalkov/Downloads/lab122222 3/lab12__2/lab12__2.csproj",
+        "projectName": "lab12__2",
+        "projectPath": "/Users/nikitamalkov/Downloads/lab122222 3/lab12__2/lab12__2.csproj",
+        "packagesPath": "/Users/nikitamalkov/.nuget/packages/",
+        "outputPath": "/Users/nikitamalkov/Downloads/lab122222 3/lab12__2/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/nikitamalkov/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "/usr/local/share/dotnet/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.316/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/nikitamalkov/Projects/DelegateProject/DelegateProject/DelegateProject.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/nikitamalkov/Projects/DelegateProject/DelegateProject/DelegateProject.csproj",
+        "projectName": "DelegateProject",
+        "projectPath": "/Users/nikitamalkov/Projects/DelegateProject/DelegateProject/DelegateProject.csproj",
+        "packagesPath": "/Users/nikitamalkov/.nuget/packages/",
+        "outputPath": "/Users/nikitamalkov/Projects/DelegateProject/DelegateProject/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/nikitamalkov/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "/usr/local/share/dotnet/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.316/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/nikitamalkov/Projects/DelegateProject/Journal/Journal.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/nikitamalkov/Projects/DelegateProject/Journal/Journal.csproj",
+        "projectName": "Journal",
+        "projectPath": "/Users/nikitamalkov/Projects/DelegateProject/Journal/Journal.csproj",
+        "packagesPath": "/Users/nikitamalkov/.nuget/packages/",
+        "outputPath": "/Users/nikitamalkov/Projects/DelegateProject/Journal/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/nikitamalkov/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "/usr/local/share/dotnet/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "/Users/nikitamalkov/Projects/DelegateProject/DelegateProject/DelegateProject.csproj": {
+                "projectPath": "/Users/nikitamalkov/Projects/DelegateProject/DelegateProject/DelegateProject.csproj"
+              },
+              "/Users/nikitamalkov/Projects/DelegateProject/StringDelegate/StringDelegate.csproj": {
+                "projectPath": "/Users/nikitamalkov/Projects/DelegateProject/StringDelegate/StringDelegate.csproj"
+              },
+              "/Users/nikitamalkov/Projects/DelegateProject/TimeEvent/TimeEvent.csproj": {
+                "projectPath": "/Users/nikitamalkov/Projects/DelegateProject/TimeEvent/TimeEvent.csproj"
+              },
+              "/Users/nikitamalkov/Projects/lab12_4/lab12_4/lab12_4.csproj": {
+                "projectPath": "/Users/nikitamalkov/Projects/lab12_4/lab12_4/lab12_4.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.316/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/nikitamalkov/Projects/DelegateProject/StringDelegate/StringDelegate.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/nikitamalkov/Projects/DelegateProject/StringDelegate/StringDelegate.csproj",
+        "projectName": "StringDelegate",
+        "projectPath": "/Users/nikitamalkov/Projects/DelegateProject/StringDelegate/StringDelegate.csproj",
+        "packagesPath": "/Users/nikitamalkov/.nuget/packages/",
+        "outputPath": "/Users/nikitamalkov/Projects/DelegateProject/StringDelegate/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/nikitamalkov/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "/usr/local/share/dotnet/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.316/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/nikitamalkov/Projects/DelegateProject/TimeEvent/TimeEvent.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/nikitamalkov/Projects/DelegateProject/TimeEvent/TimeEvent.csproj",
+        "projectName": "TimeEvent",
+        "projectPath": "/Users/nikitamalkov/Projects/DelegateProject/TimeEvent/TimeEvent.csproj",
+        "packagesPath": "/Users/nikitamalkov/.nuget/packages/",
+        "outputPath": "/Users/nikitamalkov/Projects/DelegateProject/TimeEvent/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/nikitamalkov/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "/usr/local/share/dotnet/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.316/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/nikitamalkov/Projects/lab12_4/lab12_4/lab12_4.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/nikitamalkov/Projects/lab12_4/lab12_4/lab12_4.csproj",
+        "projectName": "lab12_4",
+        "projectPath": "/Users/nikitamalkov/Projects/lab12_4/lab12_4/lab12_4.csproj",
+        "packagesPath": "/Users/nikitamalkov/.nuget/packages/",
+        "outputPath": "/Users/nikitamalkov/Projects/lab12_4/lab12_4/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/nikitamalkov/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "/usr/local/share/dotnet/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "/Users/nikitamalkov/Downloads/lab122222 3/lab12__2/lab12__2.csproj": {
+                "projectPath": "/Users/nikitamalkov/Downloads/lab122222 3/lab12__2/lab12__2.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.316/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

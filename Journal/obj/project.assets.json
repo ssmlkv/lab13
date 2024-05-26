@@ -1,0 +1,169 @@
+{
+  "version": 3,
+  "targets": {
+    "net7.0": {
+      "DelegateProject/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/DelegateProject.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/DelegateProject.dll": {}
+        }
+      },
+      "lab12_4/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "dependencies": {
+          "lab12__2": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/lab12_4.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/lab12_4.dll": {}
+        }
+      },
+      "lab12__2/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/lab12__2.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/lab12__2.dll": {}
+        }
+      },
+      "StringDelegate/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/StringDelegate.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/StringDelegate.dll": {}
+        }
+      },
+      "TimeEvent/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/TimeEvent.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/TimeEvent.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DelegateProject/1.0.0": {
+      "type": "project",
+      "path": "../DelegateProject/DelegateProject.csproj",
+      "msbuildProject": "../DelegateProject/DelegateProject.csproj"
+    },
+    "lab12_4/1.0.0": {
+      "type": "project",
+      "path": "../../lab12_4 2/lab12_4/lab12_4.csproj",
+      "msbuildProject": "../../lab12_4 2/lab12_4/lab12_4.csproj"
+    },
+    "lab12__2/1.0.0": {
+      "type": "project",
+      "path": "../../../Downloads/lab122222 2/lab12__2/lab12__2.csproj",
+      "msbuildProject": "../../../Downloads/lab122222 2/lab12__2/lab12__2.csproj"
+    },
+    "StringDelegate/1.0.0": {
+      "type": "project",
+      "path": "../StringDelegate/StringDelegate.csproj",
+      "msbuildProject": "../StringDelegate/StringDelegate.csproj"
+    },
+    "TimeEvent/1.0.0": {
+      "type": "project",
+      "path": "../TimeEvent/TimeEvent.csproj",
+      "msbuildProject": "../TimeEvent/TimeEvent.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net7.0": [
+      "DelegateProject >= 1.0.0",
+      "StringDelegate >= 1.0.0",
+      "TimeEvent >= 1.0.0",
+      "lab12_4 >= 1.0.0",
+      "lab12__2 >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "/Users/nikitamalkov/.nuget/packages/": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "/Users/nikitamalkov/Projects/DelegateProject/Journal/lab13.csproj",
+      "projectName": "lab13",
+      "projectPath": "/Users/nikitamalkov/Projects/DelegateProject/Journal/lab13.csproj",
+      "packagesPath": "/Users/nikitamalkov/.nuget/packages/",
+      "outputPath": "/Users/nikitamalkov/Projects/DelegateProject/Journal/obj/",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "/Users/nikitamalkov/.nuget/NuGet/NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net7.0"
+      ],
+      "sources": {
+        "/usr/local/share/dotnet/library-packs": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "projectReferences": {
+            "/Users/nikitamalkov/Downloads/lab122222 2/lab12__2/lab12__2.csproj": {
+              "projectPath": "/Users/nikitamalkov/Downloads/lab122222 2/lab12__2/lab12__2.csproj"
+            },
+            "/Users/nikitamalkov/Projects/DelegateProject/DelegateProject/DelegateProject.csproj": {
+              "projectPath": "/Users/nikitamalkov/Projects/DelegateProject/DelegateProject/DelegateProject.csproj"
+            },
+            "/Users/nikitamalkov/Projects/DelegateProject/StringDelegate/StringDelegate.csproj": {
+              "projectPath": "/Users/nikitamalkov/Projects/DelegateProject/StringDelegate/StringDelegate.csproj"
+            },
+            "/Users/nikitamalkov/Projects/DelegateProject/TimeEvent/TimeEvent.csproj": {
+              "projectPath": "/Users/nikitamalkov/Projects/DelegateProject/TimeEvent/TimeEvent.csproj"
+            },
+            "/Users/nikitamalkov/Projects/lab12_4 2/lab12_4/lab12_4.csproj": {
+              "projectPath": "/Users/nikitamalkov/Projects/lab12_4 2/lab12_4/lab12_4.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net7.0": {
+        "targetAlias": "net7.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.316/RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
